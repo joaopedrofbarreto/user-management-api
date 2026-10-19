@@ -1,4 +1,4 @@
-# Notas do Projeto — MOCAB User Management API
+# Notas do Projeto — User Management API
 
 ## Stack escolhida
 

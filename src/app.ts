@@ -17,7 +17,7 @@ export function buildApp() {
   app.register(swagger, {
     openapi: {
       info: {
-        title: 'MOCAB User Management API',
+        title: 'User Management API',
         version: '1.0.0',
       },
     },

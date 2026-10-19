@@ -1,6 +1,6 @@
-# MOCAB User Management API
+# User Management API
 
-API REST para gerenciamento de usuários, desenvolvida como atividade prática do processo seletivo do projeto MOCAB (UFJF).
+API REST para gerenciamento de usuários, com autenticação JWT, controle de acesso por papel e audit log das ações sobre usuários.
 
 ## Stack
 - Node.js + TypeScript
@@ -21,8 +21,8 @@ Decisões técnicas e o detalhamento das regras de negócio de cada endpoint est
 
 ### Instalação
 \`\`\`
-git clone https://github.com/joaopedrofbarreto/mocab-user-management-api.git
-cd mocab-user-management-api
+git clone https://github.com/joaopedrofbarreto/user-management-api.git
+cd user-management-api
 npm install
 \`\`\`
 
